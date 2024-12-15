@@ -5,7 +5,6 @@ import { Column } from "primereact/column";
 import { Paginator } from "primereact/paginator";
 import { ThreeDots } from "react-loader-spinner";
 import { Button } from "primereact/button";
-import { InputText } from "primereact/inputtext";
 
 interface Data {
   id: string | number;

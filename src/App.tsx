@@ -1,5 +1,5 @@
 import "./App.css";
-import { PrimeReactProvider, PrimeReactContext } from "primereact/api";
+import { PrimeReactProvider } from "primereact/api";
 import TablePage from "./components/TablePage";
 
 import 'primeicons/primeicons.css';        
